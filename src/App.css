@@ -1,0 +1,26 @@
+body{
+  background-color: #F6F8FA;
+  font-family: 'Roboto', sans-serif;
+}
+
+.App {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+.pagination-cont{
+  width: 100%;
+  padding: 2rem 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.page-no{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 40px;
+  margin-right: 50px;
+}
